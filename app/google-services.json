@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "827535677223",
+    "firebase_url": "https://instantapptest-8f62d.firebaseio.com",
+    "project_id": "instantapptest-8f62d",
+    "storage_bucket": "instantapptest-8f62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827535677223:android:ecc3ed1c9ea5afde",
+        "android_client_info": {
+          "package_name": "com.example.myfirstinstantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827535677223-o5toul249f49tc24so1kapavpclv1t6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxPYPU3NVAV1VcyG0U6p3oGjk5FNpnFo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
